@@ -404,3 +404,14 @@ function! ChooseTerm(termname, slider)
 endfunction
 
 noremap <F5> <ESC>:w<CR>:silent execute "!python %"<CR><CR>
+
+
+
+
+
+
+
+
+
+
+"test one more
